@@ -1,4 +1,63 @@
-.App {
+#userinputRapper{
+  position: fixed;
+  top: 0vh;
+  background-color: #ffffff;
+  padding-bottom: 1vh;
+}
+
+#userinput{
+  background-color: #ffffff;
+  border: solid #c82e29 5px;
+
+  margin-top: 1vh;
+  margin-left: 4vw;
+  
+  width: 92vw;
+  height: 5vh;
+  text-align: center;
+  font-size: 3em;
+}
+
+
+/* ---------------------------------- */
+
+table {
+  margin-top: 8vh;
+  width: 98vw;
+  background-color: #fafafa;
+  padding: 1vw;
+}
+
+td{
+  border: solid #c82e29 5px;
+  background-color: #fafafa;
+  padding: 8px;
+  font-size: 2em;
+}
+
+#SingleCheseVewComponet{
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #fafafa;
+}
+
+#SingleCheseVewComponet table td{
+  font-size: 1em;
+}
+
+/* ---------------------------------- OLD ---------------------------------- */
+
+/*table {
+  width: 100vw;
+  background-color: #fafafa;
+  padding: 8px;
+  border: solid #c82e29 5px;
+}
+*/
+/*.App {
   text-align: center;
 }
 
@@ -13,8 +72,9 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
+table {
+  width: 100vw;
+  background-color: #fafafa;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +96,4 @@
     transform: rotate(360deg);
   }
 }
+*/
