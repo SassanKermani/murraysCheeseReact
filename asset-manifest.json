@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/murray-s_cheese_louisville_king_soopers/static/css/main.d10a2ce9.chunk.css",
-    "main.js": "/murray-s_cheese_louisville_king_soopers/static/js/main.30e5637b.chunk.js",
-    "main.js.map": "/murray-s_cheese_louisville_king_soopers/static/js/main.30e5637b.chunk.js.map",
-    "runtime-main.js": "/murray-s_cheese_louisville_king_soopers/static/js/runtime-main.962d18bd.js",
-    "runtime-main.js.map": "/murray-s_cheese_louisville_king_soopers/static/js/runtime-main.962d18bd.js.map",
-    "static/js/2.25af0053.chunk.js": "/murray-s_cheese_louisville_king_soopers/static/js/2.25af0053.chunk.js",
-    "static/js/2.25af0053.chunk.js.map": "/murray-s_cheese_louisville_king_soopers/static/js/2.25af0053.chunk.js.map",
-    "static/js/3.85966d49.chunk.js": "/murray-s_cheese_louisville_king_soopers/static/js/3.85966d49.chunk.js",
-    "static/js/3.85966d49.chunk.js.map": "/murray-s_cheese_louisville_king_soopers/static/js/3.85966d49.chunk.js.map",
-    "index.html": "/murray-s_cheese_louisville_king_soopers/index.html",
-    "static/css/main.d10a2ce9.chunk.css.map": "/murray-s_cheese_louisville_king_soopers/static/css/main.d10a2ce9.chunk.css.map",
-    "static/js/2.25af0053.chunk.js.LICENSE.txt": "/murray-s_cheese_louisville_king_soopers/static/js/2.25af0053.chunk.js.LICENSE.txt"
+    "main.css": "/murraysCheeseReact/static/css/main.d10a2ce9.chunk.css",
+    "main.js": "/murraysCheeseReact/static/js/main.30e5637b.chunk.js",
+    "main.js.map": "/murraysCheeseReact/static/js/main.30e5637b.chunk.js.map",
+    "runtime-main.js": "/murraysCheeseReact/static/js/runtime-main.cdaff62a.js",
+    "runtime-main.js.map": "/murraysCheeseReact/static/js/runtime-main.cdaff62a.js.map",
+    "static/js/2.370e8927.chunk.js": "/murraysCheeseReact/static/js/2.370e8927.chunk.js",
+    "static/js/2.370e8927.chunk.js.map": "/murraysCheeseReact/static/js/2.370e8927.chunk.js.map",
+    "static/js/3.85966d49.chunk.js": "/murraysCheeseReact/static/js/3.85966d49.chunk.js",
+    "static/js/3.85966d49.chunk.js.map": "/murraysCheeseReact/static/js/3.85966d49.chunk.js.map",
+    "index.html": "/murraysCheeseReact/index.html",
+    "static/css/main.d10a2ce9.chunk.css.map": "/murraysCheeseReact/static/css/main.d10a2ce9.chunk.css.map",
+    "static/js/2.370e8927.chunk.js.LICENSE.txt": "/murraysCheeseReact/static/js/2.370e8927.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.962d18bd.js",
-    "static/js/2.25af0053.chunk.js",
+    "static/js/runtime-main.cdaff62a.js",
+    "static/js/2.370e8927.chunk.js",
     "static/css/main.d10a2ce9.chunk.css",
     "static/js/main.30e5637b.chunk.js"
   ]
