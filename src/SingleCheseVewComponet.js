@@ -64,7 +64,7 @@ class SingleCheseVewComponet extends React.Component {
 							</tr>
 							<tr>
 								<td>
-									Days for pice	
+									Days for piece	
 								</td>
 								<td>
 									{this.props.cheese.get("cut")}
