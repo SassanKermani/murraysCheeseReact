@@ -136,7 +136,7 @@ function App() {
 						}else{
 							if(i.get("producer").toLowerCase().includes(searchValue.toLowerCase()) | i.get("itemName").toLowerCase().includes(searchValue.toLowerCase())){
 								return(
-									<CheeseComponent key={index} cheese={i} click={()=>{togleSingleCheseVew()}}/>
+									<CheeseComponent key={index} cheese={i} click={togleSingleCheseVew}/>
 								);
 							}
 						}
